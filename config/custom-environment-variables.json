@@ -1,0 +1,5 @@
+{
+  "privateKeys": {
+    "jwt": "VIDLY_JWT_PRIVATE_KEY"
+  }
+}
