@@ -1,8 +1,5 @@
 import { Request, Response, NextFunction } from "express";
 import jwt from "jsonwebtoken";
-import { config } from "dotenv";
-
-config();
 
 export interface Payload {
   _id: string;
